@@ -13,10 +13,8 @@ import java.util.concurrent.BlockingQueue;
  */
 @Slf4j
 @Service
-@EnableScheduling
 public class QueueTest {
     BlockingQueue<String> basket = new ArrayBlockingQueue<String>(20);
-
     /**
      *
      *
@@ -59,4 +57,5 @@ public class QueueTest {
         }
 
     }
+
 }

@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nice</groupId>
-    <artifactId>short-url</artifactId>
+    <artifactId>data-structure</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>short-url</name>
-    <description>short-url Example</description>
+    <name>data-structure</name>
+    <description>data-structure Example</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
